@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[loa:home|Door43 (loa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-loa|d43-loa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-loa/archive/master.zip|d43-loa.zip]]
+
+**Recent Changes**
+{{changes>ns = loa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/loa|Ethnologue data]]
+
